@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextemail" type="id" />
+    <item name="editTextpassword" type="id" />
+    <item name="editTextmobile" type="id" />
+    <item name="editTextname" type="id" />
+    <item name="buttonlogin" type="id" />
+    <item name="textviewsignup" type="id" />
+</resources>
